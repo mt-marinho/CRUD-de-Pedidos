@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\migrations\\20240729025653_crud2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\migrations\\20240729025653_crud2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\migrations\\20240729022220_crud1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\migrations\\20240729022220_crud1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T04:13:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:00:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Data\\CrudContext.cs",
+              "RelativeDocumentMoniker": "Crud\\Data\\CrudContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Data\\CrudContext.cs",
+              "RelativeToolTip": "Crud\\Data\\CrudContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:59:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240729025653_Crud2.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729025653_Crud2.cs",
+              "RelativeDocumentMoniker": "Crud\\Migrations\\20240729025653_Crud2.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729025653_Crud2.cs",
+              "RelativeToolTip": "Crud\\Migrations\\20240729025653_Crud2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:56:53.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240729022220_Crud1.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729022220_Crud1.cs",
+              "RelativeDocumentMoniker": "Crud\\Migrations\\20240729022220_Crud1.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729022220_Crud1.cs",
+              "RelativeToolTip": "Crud\\Migrations\\20240729022220_Crud1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T02:22:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Crud\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T01:52:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Models\\Pedido.cs",
+              "RelativeToolTip": "Crud\\Models\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:35:33.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:38:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T01:36:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T01:53:16.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

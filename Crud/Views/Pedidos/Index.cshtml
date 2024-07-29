@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Crud1.Models.Pedido>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<header>
+    <h3 id="titulo">Pedidos</h3>
+
+    <a id="add-btn" asp-action="Create">
+        <img src="~/add.svg" alt="Cadastrar" />
+    </a>
+</header>
+<div class="container-table">
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="padding-left: 17px;">
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Valor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Desconto)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Vencimento)
+                </th>
+                <th>
+                   Valor Final 
+                </th>
+                <th></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            
+            @foreach (var item in Model)
+            {
+                <tr class="tr-list" asp-action="Details" asp-route-id="@item.Id">
+
+                    <td>
+                        <a class="pad-left" id="details" asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Nome)</a>
+                    </td>
+
+                    @if(item.ValorDesconto() == 0)
+                    {
+                        <td>
+                            R$ @Html.DisplayFor(modelItem => item.Valor)
+                        </td>
+                        <td>
+                               --
+                        </td>
+                    }@if (item.ValorDesconto() == 1)
+                    {
+                        <td>
+                            R$ @Html.DisplayFor(modelItem => item.Valor)
+                        </td>
+                        <td>
+                            R$ @Html.DisplayFor(modelItem => item.Desconto)
+                        </td>
+                    }
+                  
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Vencimento)
+                    </td>
+                    <td>
+                       R$ @Html.DisplayFor(modelItem => item.ValorFinal)
+                    </td>
+                    <td>
+
+                        <div id="btn-container">
+
+                            @if (item.PedidoStatus() == 1)
+                            {
+                                <div class="status" id="pendente"></div>
+                            }
+                            @if (item.PedidoStatus() == 0)
+                            {
+                                <div class="status" id="vencido"></div>
+                            }
+                            @if (item.PedidoStatus() == 2)
+                            {
+                                <div class="status" id="valido"></div>
+                            }
+
+                            <a class="pad-right" asp-action="Edit" asp-route-id="@item.Id">
+                                <img id="edit" src="~/edit.svg" alt="Editar" />
+                            </a>
+
+
+                        </div>
+                    </td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
