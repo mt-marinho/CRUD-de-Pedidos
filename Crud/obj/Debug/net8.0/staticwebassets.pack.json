@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\add.svg"
     },
     {
+      "Id": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\back.svg",
+      "PackagePath": "staticwebassets\\back.svg"
+    },
+    {
       "Id": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -251,6 +255,10 @@
     {
       "Id": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\save.svg",
+      "PackagePath": "staticwebassets\\save.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Crud.Microsoft.AspNetCore.StaticWebAssets.props",

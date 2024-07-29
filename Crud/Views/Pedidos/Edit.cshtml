@@ -4,49 +4,53 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
 
-<h4>Pedido</h4>
-<hr />
-<div class="row">
+
+<div class="row edit-container">
+    <div class="header-edit">
+        <a asp-action="Index"><img src="~/back.svg" alt="Voltar" /></a>
+    </div>
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
-            <div class="form-group">
+            <div class="form-group input-edit">
                 <label asp-for="Nome" class="control-label"></label>
                 <input asp-for="Nome" class="form-control" />
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group input-edit">
                 <label asp-for="Valor" class="control-label"></label>
                 <input asp-for="Valor" class="form-control" />
                 <span asp-validation-for="Valor" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group input-edit">
                 <label asp-for="Desconto" class="control-label"></label>
                 <input asp-for="Desconto" class="form-control" />
                 <span asp-validation-for="Desconto" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group input-edit">
                 <label asp-for="Vencimento" class="control-label"></label>
                 <input asp-for="Vencimento" class="form-control" />
                 <span asp-validation-for="Vencimento" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+            <div class="form-group edit-btn-container">
+                <input src="~/save.svg" type="submit" value="Enviar" class="btn btn-primary" />
+                
+
             </div>
+          
         </form>
+        <div style="width:350px;display:flex; align-items:end; text-align:center;">
+         <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <input id="btn-delet" type="submit" value="Excluir" class="btn btn-danger" />
+         </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-    <form asp-action="Delete">
-        <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" />
-    </form>
-</div>
+
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

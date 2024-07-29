@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9m8pmVcxOAWbajJiwadw2wfzkmq30LfK3UHuLxcbyd4=",
+  "Hash": "xh2E16lY8eV9y7P6qRUiyVOgE4PSFkuj900Ua6wd+5A=",
   "Source": "Crud",
   "BasePath": "_content/Crud",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\add.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\back.svg",
+      "SourceId": "Crud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\",
+      "BasePath": "_content/Crud",
+      "RelativePath": "back.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\back.svg"
     },
     {
       "Identity": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
@@ -1231,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\save.svg",
+      "SourceId": "Crud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\",
+      "BasePath": "_content/Crud",
+      "RelativePath": "save.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\save.svg"
     }
   ]
 }

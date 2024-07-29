@@ -250,3 +250,4 @@ C:\Users\Matheus\source\repos\Crud\Crud\obj\Debug\net8.0\refint\Crud.dll
 C:\Users\Matheus\source\repos\Crud\Crud\obj\Debug\net8.0\Crud.pdb
 C:\Users\Matheus\source\repos\Crud\Crud\obj\Debug\net8.0\Crud.genruntimeconfig.cache
 C:\Users\Matheus\source\repos\Crud\Crud\obj\Debug\net8.0\ref\Crud.dll
+C:\Users\Matheus\source\repos\Crud\Crud\obj\Debug\net8.0\Crud.sourcelink.json

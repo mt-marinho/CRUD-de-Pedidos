@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\Crud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\pedidos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\add.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\add.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\back.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\back.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{221AE8B8-F98A-4B73-AF39-C7AA521CEF9A}|Crud\\Crud.csproj|c:\\users\\matheus\\source\\repos\\crud\\crud\\migrations\\20240729025653_crud2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,36 +78,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+              "RelativeToolTip": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T06:31:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-29T06:31:11.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T06:31:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Crud\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T06:31:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add.svg",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\add.svg",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\add.svg",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\add.svg",
+              "RelativeToolTip": "Crud\\wwwroot\\add.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-29T05:57:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "back.svg",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\back.svg",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\back.svg",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\back.svg",
+              "RelativeToolTip": "Crud\\wwwroot\\back.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACRAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-29T05:57:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Pedidos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Edit.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Pedidos\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T05:37:25.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Index.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Pedidos\\Index.cshtml",
               "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Pedidos\\Index.cshtml",
               "RelativeToolTip": "Crud\\Views\\Pedidos\\Index.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAGIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T04:13:20.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PedidosController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
-              "RelativeDocumentMoniker": "Crud\\Controllers\\PedidosController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
-              "RelativeToolTip": "Crud\\Controllers\\PedidosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T04:00:36.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "CrudContext.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Data\\CrudContext.cs",
               "RelativeDocumentMoniker": "Crud\\Data\\CrudContext.cs",
@@ -87,12 +194,11 @@
               "RelativeToolTip": "Crud\\Data\\CrudContext.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T02:59:24.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T02:59:24.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "20240729025653_Crud2.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729025653_Crud2.cs",
               "RelativeDocumentMoniker": "Crud\\Migrations\\20240729025653_Crud2.cs",
@@ -104,7 +210,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Crud\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Crud\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAI4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T01:52:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "20240729022220_Crud1.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Migrations\\20240729022220_Crud1.cs",
               "RelativeDocumentMoniker": "Crud\\Migrations\\20240729022220_Crud1.cs",
@@ -116,20 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Crud\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Crud\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-29T01:52:33.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "Crud\\Models\\Pedido.cs",
@@ -142,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Program.cs",
               "RelativeDocumentMoniker": "Crud\\Program.cs",
@@ -154,19 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Crud.csproj",
-              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
-              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
-              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
-              "RelativeToolTip": "Crud\\Crud.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T01:36:15.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
@@ -174,7 +268,33 @@
               "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T01:53:16.596Z"
+              "WhenOpened": "2024-07-29T01:53:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:00:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T01:36:15.541Z",
+              "EditorCaption": ""
             }
           ]
         }
